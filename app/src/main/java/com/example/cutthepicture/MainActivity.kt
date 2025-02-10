@@ -225,6 +225,7 @@ class MainActivity : AppCompatActivity() {
 
                 // 分割为3x3网格
                 val chunkSize = size / 3
+
                 var count = 0
 
                 for (y in 0..2) {
